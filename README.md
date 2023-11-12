@@ -1,4 +1,4 @@
-![image](https://github.com/spurtik0708/To-Do-List/assets/118597103/1a7468f7-e9db-4c34-aed2-3d138f466d59)To-Do List Web App
+To-Do List Web App
 
 Overview
 
